@@ -1,4 +1,4 @@
-from __init__ import LlmApi, ModelType
+from llmmodelsapi import LlmApi, ModelType
 
 if __name__ == '__main__':
     api_token = "YOUR_API_TOKEN"
