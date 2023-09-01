@@ -8,7 +8,7 @@ setup(
   author = 'Matthieu Moullec',
   author_email = 'matthieu.moullec.perso@gmail.com',
   url = 'https://github.com/llm-solutions/LLM-API-Express-SDK-Python',
-  download_url = 'https://github.com/llm-solutions/LLM-API-Express-SDK-Python/archive/refs/tags/v0.1.tar.gz',
+  download_url = 'https://github.com/llm-solutions/LLM-API-Express-SDK-Python/archive/refs/tags/v0.2.tar.gz',
   keywords = ['Large Language Model', 'LLM', 'API'],
   install_requires=[
           'requests',
