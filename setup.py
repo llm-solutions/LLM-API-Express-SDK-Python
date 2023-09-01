@@ -5,6 +5,7 @@ setup(
   version = '0.3',
   license='MIT',
   description = 'SDK for interfacing with core models hosted by LLM Solutions',
+  long_description_content_type="text/markdown",
   author = 'Matthieu Moullec',
   author_email = 'matthieu.moullec.perso@gmail.com',
   url = 'https://github.com/llm-solutions/LLM-API-Express-SDK-Python',
