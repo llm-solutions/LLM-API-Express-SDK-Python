@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'llmmodelsapi',
   packages = ['llmmodelsapi'],
-  version = '0.1',
+  version = '0.3',
   license='MIT',
   description = 'SDK for interfacing with core models hosted by LLM Solutions',
   author = 'Matthieu Moullec',
