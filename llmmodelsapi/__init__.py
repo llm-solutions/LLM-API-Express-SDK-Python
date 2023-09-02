@@ -37,7 +37,7 @@ class ModelType():
     CORE_MODEL = 'core-model'
 
 class LlmApi():
-    base_endpoint = "https://llm-api-express-yix5m2x4pq-uk.a.run.app/api/v1"
+    base_endpoint = "https://prod-api.base.place/api/v1"
 
     def __init__(self, api_token):
         self.api_token = api_token
